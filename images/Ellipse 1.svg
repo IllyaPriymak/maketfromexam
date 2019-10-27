@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99 99" width="99" height="99">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #333333 } 
+	</style>
+	<g id="How It Works">
+		<g id="Search">
+			<path id="-e-Ellipse 1" class="shp0" d="M50 2C76.51 2 98 23.49 98 50C98 76.51 76.51 98 50 98C23.49 98 2 76.51 2 50C2 23.49 23.49 2 50 2Z" />
+		</g>
+	</g>
+</svg>
